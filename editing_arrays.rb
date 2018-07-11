@@ -13,7 +13,13 @@ puts rainbow_colors[0]
 rainbow_colors[0] = "red"
 puts rainbow_colors[0]
 
+rainbow_colors[1] = "default"
+puts rainbow_colors[1]
+rainbow_colors[1] = "light red"
+puts rainbow_colors[1]
 
+rainbow_colors[2] = 
+puts rainbow_colors[2]
 
 
 end
